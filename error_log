@@ -1,0 +1,32 @@
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bhaibhai/public_html/New_folder/pages/forms/connection.php on line 2
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bhaibhai/public_html/New_folder/index.php on line 290
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bhaibhai/public_html/New_folder/index.php on line 292
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bhaibhai/public_html/New_folder/pages/forms/connection.php on line 2
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bhaibhai/public_html/New_folder/index.php on line 319
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bhaibhai/public_html/New_folder/index.php on line 321
+[04-Jun-2020 14:30:17 UTC] PHP Notice:  Undefined variable: t2 in /home/bhaibhai/public_html/New_folder/index.php on line 345
+[04-Jun-2020 14:30:17 UTC] PHP Notice:  Undefined variable: t1 in /home/bhaibhai/public_html/New_folder/index.php on line 345
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bhaibhai/public_html/New_folder/pages/forms/connection.php on line 2
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bhaibhai/public_html/New_folder/index.php on line 363
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bhaibhai/public_html/New_folder/index.php on line 365
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bhaibhai/public_html/New_folder/pages/forms/connection.php on line 2
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bhaibhai/public_html/New_folder/index.php on line 392
+[04-Jun-2020 14:30:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bhaibhai/public_html/New_folder/index.php on line 394
+[04-Jun-2020 14:30:17 UTC] PHP Notice:  Undefined variable: p1 in /home/bhaibhai/public_html/New_folder/index.php on line 418
+[04-Jun-2020 14:30:17 UTC] PHP Notice:  Undefined variable: p in /home/bhaibhai/public_html/New_folder/index.php on line 418
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bhaibhai/public_html/New_folder/pages/forms/connection.php on line 2
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bhaibhai/public_html/New_folder/index.php on line 290
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bhaibhai/public_html/New_folder/index.php on line 292
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bhaibhai/public_html/New_folder/pages/forms/connection.php on line 2
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bhaibhai/public_html/New_folder/index.php on line 319
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bhaibhai/public_html/New_folder/index.php on line 321
+[04-Jun-2020 14:32:26 UTC] PHP Notice:  Undefined variable: t2 in /home/bhaibhai/public_html/New_folder/index.php on line 345
+[04-Jun-2020 14:32:26 UTC] PHP Notice:  Undefined variable: t1 in /home/bhaibhai/public_html/New_folder/index.php on line 345
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bhaibhai/public_html/New_folder/pages/forms/connection.php on line 2
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bhaibhai/public_html/New_folder/index.php on line 363
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bhaibhai/public_html/New_folder/index.php on line 365
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bhaibhai/public_html/New_folder/pages/forms/connection.php on line 2
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bhaibhai/public_html/New_folder/index.php on line 392
+[04-Jun-2020 14:32:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bhaibhai/public_html/New_folder/index.php on line 394
+[04-Jun-2020 14:32:26 UTC] PHP Notice:  Undefined variable: p1 in /home/bhaibhai/public_html/New_folder/index.php on line 418
+[04-Jun-2020 14:32:26 UTC] PHP Notice:  Undefined variable: p in /home/bhaibhai/public_html/New_folder/index.php on line 418
